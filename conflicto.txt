@@ -1,1 +1,1 @@
-linea conflicto
+Linea conflictiva diferente rama
